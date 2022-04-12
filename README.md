@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kdsc01
-- 👀 I’m interested in Business Analytics
+- 👀 I’m pursuing my Master in Business Analytics
 - 🌱 I’m currently learning C#, Python, R, Tableau, SQL. 
 - 💞️ I’m looking to collaborate on Analytics projects 
 - 📫 How to reach me: By email. 
